@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: S.Bhuvaneshwari
-<h3>Register Number/Staff Id: 212221240010
+<h3>Register Number: 212221240010
 
 
 <h3>AIM:</h3>
